@@ -1,5 +1,5 @@
-# soda
-A compact GTK / Gnome-Shell theme.
+# Soda
+A Gnome Desktop theme.
 
 Installation:
 
