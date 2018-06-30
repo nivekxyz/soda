@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Soda Theme
+Comment=A Gnome theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Soda
+MetacityTheme=Soda
+IconTheme=Soda
+CursorTheme=Soda
+CursorSize=24
